@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/rs08cGS.png" alt="Image-Classification" /> 
 </p>
 
-# Image Classification with Pre-trained Models
+<h1 style="text-align: center">Image Classification with Pre-trained Models</h1>
 
 Welcome! This repository demonstrates how to classify images using various **pre-trained deep learning models**, such as **InceptionV3**, **ResNet50**, and more. These models are implemented in Python using TensorFlow and Keras, and are designed for tasks like object recognition and image categorization.
 
